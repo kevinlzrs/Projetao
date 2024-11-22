@@ -115,6 +115,6 @@ function exibirFraseInformativa(url) {
     informacaoDiv.innerHTML = `
     <p>Essas são as minhas preferências em Jogos. <br>
     <p>Tais como <strong>Minecraft</strong>, <strong>GTAV</strong> e <strong>GodOfWar</strong> são os jogos que mais despertam meu interesse com um total de <span>${valores[0]}</span>, <span>${valores[4]}</span> e <span>${valores[6]}</span> pontos de interesse respectivamente, pois oferecem a oportunidade de mergulhar nos aspectos físicos e históricos de um fato..</p>
-    <p>Além disso, <strong>FIFA18</strong> com <span>${valores[2]}</span> pontos, também é um dos jogos de destaque. Por outro lado, matérias como <strong>TheLastOfUs</strong> com <span>${valores[3]}</span> pontos, <strong>GTAV</strong> com <span>${valores[1]}</span> pontos e especialmente <strong>Samba</strong> com <span>${valores[5]}</span> pontos despertam menos meu interesse.</p>
+    <p>Além disso, <strong>FIFA18</strong> com <span>${valores[2]}</span> pontos, também é um dos jogos de destaque. Por outro lado, matérias como <strong>TheLastOfUs</strong> com <span>${valores[3]}</span> pontos, <strong>GTAV</strong> com <span>${valores[1]}</span> pontos e especialmente pontos despertam menos meu interesse.</p>
     `;
 }
